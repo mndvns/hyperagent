@@ -6,7 +6,7 @@
   "keywords": [],
   "dependencies": {
     "visionmedia/superagent": "^0.20.0",
-    "camshaft/superagent-defaults": "*",
+    "mndvns/superagent-defaults": "*",
     "hypergroup/hyper-path": "*",
     "camshaft/envs": "*",
     "component/inherit": "~0.0.3"
